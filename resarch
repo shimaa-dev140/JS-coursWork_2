@@ -1,0 +1,43 @@
+1. What does each method do?
+كل Method بتنفذ وظيفة معينة.
+
+2. What does each method return?
+بترجع قيمة حسب وظيفتها.
+
+3. What does pop() return when the array is empty?
+undefined
+
+4. Can you change an array’s elements or an object’s properties declared with const?
+Yes.
+
+5. How is modifying a value different from reassigning the variable?
+Modifying: تغيير المحتوى.
+Reassigning: تغيير القيمة المرتبطة بالمتغير.
+
+6. What is the difference?
+Modifying changes the content, reassignment changes the variable's reference or value.
+
+7. Can you call each function before its definition?
+
+Function Declaration: Yes.
+
+Function Expression: No, with const.
+
+8. What is the difference between implicit and explicit return?
+Implicit: بدون كتابة return.
+Explicit: باستخدام return.
+
+9. How do you return an object using an arrow function?
+باستخدام ({}).
+
+10. What is the difference between a parameter and an argument?
+Parameter: اسم المتغير في تعريف الفنكشن.
+Argument: القيمة المرسلة عند استدعائها.
+
+11. What does a function return when it has no return statement?
+undefined
+
+12. Does console.log() return the value it displays?
+No, it returns undefined.
+
+
